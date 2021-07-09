@@ -1,20 +1,14 @@
 # vvtest
-Funcionalidade: Pesquisa com o QA 
+Para ambiente Windows:
 
-Como um recrutador
+Tools
 
-Quero colher dados da pesquisa 
+CMDER (Console Emulator) - https://cmder.net/
 
-Para fazer análises mais detalhadas do QA
+Python 3.9.4 - https://www.python.org/downloads/release/python-394/ PS: Defina a variável de ambiente durante a instalação (recomendado) selecionando a opção "Add Python 3.9 to PATH".
 
-URL: http://www.lourencodemonaco.com.br/vvtest/
+No Console Emulator, execute pip install robotframework para instalar o Robot Framework
 
-Cenário: Preencher pesquisa com dados obrigatórios válidos
+No Console Emulator, execute pip install robotframework-seleniumlibrary para instalar a biblioteca do Selenium
 
-Dado que eu acesse a página da VV Test
-
-E acesse o menu "Pesquisa - QA"
-
-Quando eu preencher todos os campos obrigatórios 
-
-Então deve ser direcionado para uma página de sucesso
+VS Code - https://code.visualstudio.com/download Baixe as extensões: Python e Robot Framework
